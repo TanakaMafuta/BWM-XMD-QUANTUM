@@ -1,11 +1,11 @@
 
 
 {
-  "name": "BWM-XMD-QUANTUM",
-  "description": "Best WhatsApp bot developed by Ibrahim Adams",
+  "name": "CYBER-GHOST",
+  "description": "Best WhatsApp bot developed by Cyber Ghost",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
-  "logo": "https://files.catbox.moe/2kcb4s.jpeg",
-  "repository": "https://github.com/ekitale/maths-project",
+  "logo": "https://files.catbox.moe/pf1cme.jpg",
+  "repository": "https://github.com/TanakaMafuta/BWM-XMD-QUANTUM",
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
