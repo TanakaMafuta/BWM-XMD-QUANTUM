@@ -51,13 +51,13 @@
     },
     "BOT_NAME": {
       "description": "Name for your bot",
-      "value": "BWM-XMD",
-      "required": false
+      "value": "CYBER-GHOST",
+      "required": true
     },
     "BOT_URL": {
       "description": "Image or video url for your bot menu",
-      "value": "https://url.bwmxmd.online/Adams.zwu780jq.jpg,https://url.bwmxmd.online/Adams.dlmegzh8.mp4",
-      "required": false
+      "value": "https://files.catbox.moe/u92uxh.jpg",
+      "required": true
     },
     "PUBLIC_MODE": {
       "description": "Type yes for public mode or no for private mode",
