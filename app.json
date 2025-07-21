@@ -122,7 +122,7 @@
     "ANTIDELETE_RECOVER_CONVENTION": {
       "description": "Enable anti-delete deleted to recover in conversation (yes/no)",
       "value": "no",
-      "required": false
+      "required": true
     },	  
     "GROUPANTILINK": {
       "description": "Enable anti-link in groups (yes/no)",
