@@ -213163,7 +213163,7 @@ module.exports = {
     get AUDIO_REPLY() { return process.env.AUDIO_REPLY || 'yes'; },
     
     BOT_URL: process.env.BOT_URL ? process.env.BOT_URL.split(',') : [
-        'https://res.cloudinary.com/dptzpfgtm/image/upload/v1748879883/whatsapp_uploads/e3eprzkzxhwfx7pmemr5.jpg',
+        'https://files.catbox.moe/s0sc04.jpg',
         'https://res.cloudinary.com/dptzpfgtm/image/upload/v1748879901/whatsapp_uploads/hqagxk84idvf899rhpfj.jpg',
         'https://res.cloudinary.com/dptzpfgtm/image/upload/v1748879921/whatsapp_uploads/bms318aehnllm6sfdgql.jpg'
     ],
