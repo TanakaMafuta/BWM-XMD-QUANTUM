@@ -1,10 +1,10 @@
 
 // utils/contextManager.js
 const NEWS_LETTER_JID = "120363285388090068@newsletter";
-const BOT_NAME = "BWM-XMD";
+const BOT_NAME = "CYBER-GHOST";
 const thumbnails = [
-                "https://files.catbox.moe/165qf7.jpg",
-                "https://files.catbox.moe/24j10y.jpeg"
+                "https://files.catbox.moe/dtkmlu.jpeg",
+                "https://files.catbox.moe/dtkmlu.jpeg"
             ];
 
             // Select a random thumbnail
